@@ -19,7 +19,7 @@ iMaterialist is a fine-grained attribute recognition challenge for product image
 
 The attributes describes properties of a product. For example, in the figure below, the pair of shoes have the attributes described on the right:
 
-<p align="center"><img src="./assets/shoe.png" align=middle/></p>
+<p align="center"><img src="./assets/shoe.png" align=middle width=50% height=50%/></p>
 
 In this competition, you are challenged to develop recognition / classification algorithms which accurately assign attribute labels for apparel items in the image dataset.  The training dataset includes images from four apparel classes (outerwear, dresses, pants, shoes), with [TBA] attribute label for each image. It includes a total of [TBA] attribute labels. By participating in this competition, you will contribute to the state-of-the-art computer vision and machine research and setting benchmarks for fine-grained attribute product recognition.
 
