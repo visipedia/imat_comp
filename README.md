@@ -1,4 +1,4 @@
-![Banner](./assets/banner.jpg)
+<!-- ![Banner](./assets/banner.jpg) -->
 
 # iMaterialist Competition 
 Please open an issue if you have questions or problems with the dataset.
