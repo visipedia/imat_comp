@@ -24,4 +24,4 @@ iMaterialist is a fine-grained attribute recognition challenge for product image
 
 In this competition, you are challenged to develop recognition / classification algorithms which accurately assign attribute labels for apparel items in the image. By participating in this competition, you will contribute to the state-of-the-art computer vision and machine research and setting benchmarks for fine-grained attribute product recognition.
 
-For more information on the Evaluation Metric, Data / Submission Format and Rules, please see the [Kaggle challenge page](https://www.kaggle.com/c/imaterialist-challenge-FGVC2017).
+For more information on the Evaluation Metric, Data / Submission Format, Rules and participating the iMaterialist Competition, please see the [Kaggle challenge page](https://www.kaggle.com/c/imaterialist-challenge-FGVC2017).
