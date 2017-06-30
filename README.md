@@ -29,4 +29,4 @@ For more information on the Evaluation Metric, Data / Submission Format, Rules a
 ## Data
 Download the dataset files here:
 * [iMaterialist dataset [8.0GB]](https://storage.googleapis.com/cvdf-datasets/iMat/imat_dataset2017.tar.gz)
-    * Number of missing images: 1635 in training, 298 in validation and 1321 in test set.
+    * Number of missing images: 1635 / 42029 (3.89%) in training, 298 / 8432 (3.53%) in validation and 1321 / 33726 (3.92%) in test set.
