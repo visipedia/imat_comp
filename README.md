@@ -25,8 +25,3 @@ iMaterialist is a fine-grained attribute recognition challenge for product image
 In this competition, you are challenged to develop recognition / classification algorithms which accurately assign attribute labels for apparel items in the image. By participating in this competition, you will contribute to the state-of-the-art computer vision and machine research and setting benchmarks for fine-grained attribute product recognition.
 
 For more information on the Evaluation Metric, Data / Submission Format, Rules and participating the iMaterialist Competition, please see the [Kaggle challenge page](https://www.kaggle.com/c/imaterialist-challenge-FGVC2017).
-
-## Data
-Download the dataset files here:
-* [iMaterialist dataset [8.0GB]](https://storage.googleapis.com/imat/imat_dataset2017.tar.gz)
-    * Number of missing images: 1635 / 42029 (3.89%) in training, 298 / 8432 (3.53%) in validation and 1321 / 33726 (3.92%) in test set.
