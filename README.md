@@ -3,7 +3,7 @@
 # iMaterialist Competition - Fashion
 
 # 2019 Competition
-The 2019 competition, sponsored by Google, is part of the [FGVC^6 workshop](http://fgvc.org) at [CVPR](http://cvpr2019.thecvf.com/). 
+The 2019 competition, sponsored by Google, is part of the [FGVC6 workshop](http://fgvc.org) at [CVPR](http://cvpr2019.thecvf.com/). 
 
 Please open an issue if you have questions or problems with the dataset.
 
