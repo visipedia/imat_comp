@@ -33,7 +33,7 @@ Visual analysis of clothing is a topic that has received increasing attention in
 
 We present a new clothing dataset with the goal of introducing a novel fine-grained segmentation task by joining forces between the fashion and computer vision communities. The proposed task unifies both categorization and segmentation of rich and complete apparel attributes, an important step toward real-world applications. While early work in computer vision addressed related clothing recognition tasks, these are not designed with fashion insiders’ needs in mind, possibly due to the research gap in fashion design and computer vision. To address this, we first propose a fashion taxonomy built by fashion experts, informed by product description from the internet. To capture the complex structure of fashion objects and ambiguity in descriptions obtained from crawling the web, our standardized taxonomy contains 48 apparel objects (28 main apparel items and 20 apparel parts), and 349 related fine-grained attributes. Secondly, a total of 50K clothing images in daily-life, celebrity events, and online shopping are labeled by both domain experts and crowd workers for fine-grained segmentation. 
 
-In this competition, FGVC workshop organizers with Google challenge you to develop algorithms that will help with an important step towards automatic product detection – to accurately assign segmentations and attribute labels for fashion images. Individuals/Teams with top submissions will be invited to present their work live at the FGVC6 workshop.
+In this competition, we challenge you to develop algorithms that will help with an important step towards automatic product detection – to accurately assign segmentations and attribute labels for fashion images. Individuals/Teams with top submissions will be invited to present their work live at the FGVC6 workshop.
 
 ![example](assets/example.png)
 
@@ -41,4 +41,7 @@ For more information on the Evaluation Metric, Data / Submission Format, Rules a
 
 ## Differences from iMat Fashion 2018
 
-The 2019 dataset introduced a novel task that jointly learning object segmentation with fine-grained attributes classification. It also contains a taxonomy with total 397 apparel categories and attributes. For more details on iMat Fashion 2018, please see [this page](https://www.kaggle.com/c/imaterialist-challenge-fashion-2018)
+Whereas iMat-Fashion-2018 covered fine-grained attributes classification, this year our competition introduces a novel task, which is to jointly learn apparel instance segmentation with fine-grained attributes classification. Our 2019 dataset also propose a fashion taxonomy built by fashion experts, with total 397 apparel categories and attributes. 
+
+For more details on iMat Fashion 2018, please see [this page](https://www.kaggle.com/c/imaterialist-challenge-fashion-2018).
+
