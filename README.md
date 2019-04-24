@@ -140,4 +140,4 @@ For more details on iMat Fashion 2018, please see [this page](https://www.kaggle
 
 The iMat-Fashion Challenge 2019 is sponsored by Google AI, CVDF, Samasource and [Fashionpedia](https://fashionpedia.github.io/home/index.html).
 
-![example](https://s3.amazonaws.com/ifashionist/Kaggle/googleai.jpg)![example](<https://s3.amazonaws.com/ifashionist/Kaggle/cvdf-logo.png>)![example](<https://s3.amazonaws.com/ifashionist/Kaggle/Fashionpedia_logo.jpg>)![example](<https://s3.amazonaws.com/ifashionist/Kaggle/samasource-logo1.jpg>)
+![example](https://s3.amazonaws.com/ifashionist/Kaggle/googleai.jpg)![example](<https://s3.amazonaws.com/ifashionist/Kaggle/cvdf-logo.png>)![example](<https://s3.amazonaws.com/ifashionist/Kaggle/samasource-logo1.jpg>)![example](<https://s3.amazonaws.com/ifashionist/Kaggle/Fashionpedia_logo.jpg>)
