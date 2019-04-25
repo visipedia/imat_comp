@@ -17,9 +17,10 @@ We are using Kaggle to host the leaderboard. Checkout the competition page [here
 ## Dates
 | Task | Date |
 |----|---------------|
-|Entry deadline| **June 3, 2019** |
-|Team Merger deadline | **June 3, 2019** |
-|Final submission deadline| **June 10, 2019**|
+| Data Released | April 24, 2019 |
+|Entry deadline| June 3, 2019 |
+|Team Merger deadline | June 3, 2019 |
+|Final submission deadline| June 10, 2019 |
 
 
 
