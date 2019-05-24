@@ -135,7 +135,10 @@ Whereas iMat-Fashion-2018 covered fine-grained attributes classification, this y
 
 For more details on iMat Fashion 2018, please see [this page](https://www.kaggle.com/c/imaterialist-challenge-fashion-2018).
 
+## Contact
 
+- Menglin Jia (mj493@cornell.edu)
+- Mengyun (David) Shi (ms2979@cornell.edu)
 
 ## Acknowledgements
 
