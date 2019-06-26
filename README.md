@@ -129,11 +129,11 @@ JSON format: coming soon!
 
 
 
-## Differences from iMat Fashion 2018
+## Differences from iMat Fashion 2018/2017
 
-Whereas iMat-Fashion-2018 covered fine-grained attributes classification, this year our competition introduces a novel task, which is to jointly learn apparel instance segmentation with fine-grained attributes classification. Our 2019 dataset also propose a fashion taxonomy built by fashion experts, with total 138 apparel categories and attributes. 
+Whereas iMat-Fashion-2018 and 2017 covered fine-grained attributes classification, this year our competition introduces a novel task, which is to jointly learn apparel instance segmentation with fine-grained attributes classification. Our 2019 dataset also propose a fashion taxonomy built by fashion experts, with total 138 apparel categories and attributes. 
 
-For more details on iMat Fashion 2018, please see [this page](https://www.kaggle.com/c/imaterialist-challenge-fashion-2018).
+For more details on previous iMat Fashion challenges, please see [kaggle site](https://www.kaggle.com/c/imaterialist-challenge-fashion-2018), [github page](https://github.com/visipedia/imat_fashion_comp) for 2018, and  [this page for 2017 competition](https://github.com/visipedia/imat_comp/tree/master/2017)
 
 ## Contact
 
