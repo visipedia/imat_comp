@@ -13,7 +13,9 @@ Visual analysis of clothing is a topic that has received increasing attention in
 
 We present a new clothing dataset with the goal of introducing **a novel fine-grained segmentation task** by joining forces between the fashion and computer vision communities. The proposed task unifies both categorization and segmentation of rich and complete apparel attributes, an important step toward real-world applications. 
 
-![example](assets/example.jpg)
+![example](assets/more_examples.png)
+
+
 
 While early work in computer vision addressed related clothing recognition tasks, these are not designed with fashion insiders’ needs in mind, possibly due to the research gap in fashion design and computer vision. To address this, we first propose a fashion taxonomy built by fashion experts, informed by product description from the internet. To capture the complex structure of fashion objects and ambiguity in descriptions obtained from crawling the web, our standardized taxonomy contains **46** apparel objects (**27** main apparel items and **19** apparel parts), and **294** related fine-grained attributes. Secondly, a total of around 48K clothing images in daily-life, celebrity events, and online shopping are labeled by both domain experts and crowd workers for fine-grained segmentation.
 
